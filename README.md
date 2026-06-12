@@ -1,16 +1,116 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vamshi7x/Vamshi7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Vamshi Kummari
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+GenAI+Engineer;LangChain+%7C+LangGraph+%7C+Groq+%7C+RAG;Transformers+%7C+PyTorch+%7C+TensorFlow;Scikit-learn+%7C+XGBoost+%7C+LightGBM;FastAPI+%7C+Streamlit+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamshikummari7x)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vamshi7x)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kummarivamshi095@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=vamshi7x&style=for-the-badge&color=6366F1)](https://github.com/Vamshi7x)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+B.Tech CSE (Data Science) graduate from SVIT Hyderabad. I work at the intersection of **GenAI engineering** and **applied ML** — building production RAG pipelines, LangGraph agents, and ML systems trained on real-world datasets.
+
+- 🔭 Actively looking for **AI/ML Engineer · GenAI Engineer · Data Scientist** roles in Hyderabad & Bangalore
+- 🌱 Currently deepening knowledge in **Transformers, Deep Agents, and Agentic AI**
+- 🤝 Looking to collaborate on **Agentic AI Projects**
+- 🔧 Seeking help with **MLOps**
+- 💬 Ask me about **Machine Learning, Deep Learning (ANN, CNN, RNN, LSTM, Transformers)**
+- 📫 Reach me at **kummarivamshi095@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**ML / AI / GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+**Data & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+**Tools & Infrastructure**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🏡 LandSense AI — Land Price Prediction System
+
+**Stack:** `Python` `Random Forest` `XGBoost` `LightGBM` `Scikit-learn` `Streamlit` `Leaflet.js`
+
+- Trained on 65K+ records across 14 Indian states · 27 engineered features · Random Forest at **93% R²**
+- Deployed on Streamlit with interactive map-click predictions and ROI advisory module
+
+---
+
+### 🎙️ AI Mock Interviewer
+
+**Stack:** `Python` `LangChain` `LangGraph` `Groq LLaMA-3.3-70b` `Pydantic` `Streamlit`
+
+- 4-chain LCEL pipeline across 7 domains with adaptive difficulty and MCQ / Written modes
+- Structured Pydantic outputs with score trend charts and downloadable PDF reports
+
+---
+
+### 📦 LogiTrack Variance Insights — Delivery Reliability Engine
+
+**Stack:** `Python` `Pandas` `Scikit-learn` `Plotly` `Streamlit` `Groq` `Cohere`
+
+- Analyzed 35K+ shipment records across 8 carriers with lead-time variance and carrier performance scoring
+- Groq + Cohere LLM insights with Plotly dashboards for delay tracking
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vamshi7x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vamshi7x&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi7x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Top Languages" width="40%" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to entry-level AI/ML · GenAI roles — feel free to reach out!*
+
+</div>
