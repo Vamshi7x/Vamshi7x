@@ -2,7 +2,7 @@
 
 # Vamshi Kummari
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+GenAI+Engineer;LangChain+%7C+LangGraph+%7C+Groq+%7C+RAG;Transformers+%7C+PyTorch+%7C+TensorFlow;Scikit-learn+%7C+XGBoost+%7C+LightGBM;FastAPI+%7C+Streamlit+%7C+Docker+%7C+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%7C+GenAI+;LangChain+%7C+LangGraph+%7C+Groq+%7C+RAG;Transformers+%7C+PyTorch+%7C+TensorFlow;Scikit-learn+%7C+XGBoost+%7C+LightGBM;FastAPI+%7C+Streamlit+%7C+Docker+%7C+AWS" alt="Typing SVG" />
 
 <br/>
 
@@ -30,38 +30,40 @@ B.Tech CSE (Data Science) graduate from SVIT Hyderabad. I work at the intersecti
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java" />
 
 **ML / AI / GenAI**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&logoWidth=20" height="47"/>
+<img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Groq-000000?style=flat-square&logoColor=white" height="47"/>
 
 **Data & Analytics**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<img src="https://skillicons.dev/icons?i=opencv" />
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="47"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="47"/>
 
 **Tools & Infrastructure**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,docker,aws,git,mysql" />
+<br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="47"/>
+
+</div>
 
 ---
 
