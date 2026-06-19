@@ -76,7 +76,7 @@ B.Tech CSE (Data Science) graduate from SVIT Hyderabad. I work at the intersecti
 - Architected a **4-chain LangChain LCEL pipeline** (question generation → evaluation → ideal answer → final report) supporting 7 domains (Python, SQL, GenAI/LLM, Data Science/ML, Aptitude, Logical Reasoning, HR) with adaptive follow-up questions targeting candidate weak areas
 - Implemented **dual answer formats** (MCQ up to 50Q / Written up to 25Q / Combined) with Pydantic structured outputs, strict letter-based MCQ evaluation, back-navigation, and downloadable `.txt` performance report with correct answers and ideal explanations
 - Engineered a **real-time voice interview mode** using Web Speech API and SpeechSynthesis API with word-by-word question streaming, live transcription, and automatic mic activation exclusively for written format
-- Transitioned from Streamlit prototype to a **full-stack SPA** (FastAPI REST backend + Vanilla JS frontend) with score trend visualization via Chart.js and deployment on Render + Netlify
+- Transitioned from Streamlit prototype to a **full-stack SPA** (FastAPI REST backend + Vanilla JS frontend) with score trend visualization via Chart.js and deployment on Render
 
 ---
 
