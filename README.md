@@ -69,21 +69,23 @@ B.Tech CSE (Data Science) graduate from SVIT Hyderabad. I work at the intersecti
 
 ## 🚀 Projects
 
+### 🎙️ AI Mock Interviewer — Voice-Enabled Interview Platform
+
+**Stack:** `Python` `FastAPI` `LangChain LCEL` `Groq (LLaMA-3.3-70b)` `Pydantic` `Vanilla JS` `Web Speech API` `Render`
+
+- Architected a **4-chain LangChain LCEL pipeline** (question generation → evaluation → ideal answer → final report) supporting 7 domains (Python, SQL, GenAI/LLM, Data Science/ML, Aptitude, Logical Reasoning, HR) with adaptive follow-up questions targeting candidate weak areas
+- Implemented **dual answer formats** (MCQ up to 50Q / Written up to 25Q / Combined) with Pydantic structured outputs, strict letter-based MCQ evaluation, back-navigation, and downloadable `.txt` performance report with correct answers and ideal explanations
+- Engineered a **real-time voice interview mode** using Web Speech API and SpeechSynthesis API with word-by-word question streaming, live transcription, and automatic mic activation exclusively for written format
+- Transitioned from Streamlit prototype to a **full-stack SPA** (FastAPI REST backend + Vanilla JS frontend) with score trend visualization via Chart.js and deployment on Render + Netlify
+
+---
+
 ### 🏡 LandSense AI — Land Price Prediction System
 
 **Stack:** `Python` `Random Forest` `XGBoost` `LightGBM` `Scikit-learn` `Streamlit` `Leaflet.js`
 
 - Trained on 65K+ records across 14 Indian states · 27 engineered features · Random Forest at **93% R²**
 - Deployed on Streamlit with interactive map-click predictions and ROI advisory module
-
----
-
-### 🎙️ AI Mock Interviewer
-
-**Stack:** `Python` `LangChain` `LangGraph` `Groq LLaMA-3.3-70b` `Pydantic` `Streamlit`
-
-- 4-chain LCEL pipeline across 7 domains with adaptive difficulty and MCQ / Written modes
-- Structured Pydantic outputs with score trend charts and downloadable PDF reports
 
 ---
 
