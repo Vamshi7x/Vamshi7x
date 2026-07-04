@@ -62,12 +62,25 @@ B.Tech CSE (Data Science) graduate from SVIT Hyderabad. I work at the intersecti
 <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,git,mysql" />
 <br/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="47"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="47"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="47"/>
 
 </div>
 
 ---
 
 ## 🚀 Projects
+
+### 🔎 ResearchMind AI — Multi-Agent Research Assistant
+
+**Stack:** `LangGraph` `Mistral` `Groq` `Tavily` `FastAPI` `React` `TypeScript` `Server-Sent Events` `Render`
+
+- Designed a **5-stage multi-agent pipeline** (Router → Research → Orchestrator → Workers → Reducer) using LangGraph to decompose complex research queries into parallelized sub-tasks handled by specialized worker agents
+- Integrated **Mistral/Groq LLMs** with **Tavily search** for real-time web-grounded research, with an orchestrator layer coordinating task delegation and a reducer stage synthesizing worker outputs into a coherent final report
+- Built a **FastAPI backend** with **Server-Sent Events (SSE)** for real-time streaming of agent progress and results to the client
+- Developed a **React/TypeScript frontend** with a custom glassmorphism UI, deployed end-to-end on Render
+
+---
 
 ### 🎙️ AI Mock Interviewer — Voice-Enabled Interview Platform
 
